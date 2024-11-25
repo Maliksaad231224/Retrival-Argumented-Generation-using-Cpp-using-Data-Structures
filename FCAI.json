@@ -1,0 +1,118 @@
+{
+    "Faculty of Computing and Artificial Intelligence": {
+      "Departments": {
+        "Computer Science": {
+          "head": "Dr. Alice",
+          "number_of_students": 200,
+          "fee_per_credit_hour": 500, // Fee for each credit hour
+          "courses": [
+            {
+              "name": "Data Structures",
+              "credits": 3
+            },
+            {
+              "name": "Artificial Intelligence",
+              "credits": 4
+            },
+            {
+              "name": "Operating Systems",
+              "credits": 3
+            }
+          ]
+        },
+        "Cyber Security": {
+          "head": "Dr. Bob",
+          "number_of_students": 180,
+          "fee_per_credit_hour": 450, // Fee for each credit hour
+          "courses": [
+            {
+              "name": "Software Design",
+              "credits": 3
+            },
+            {
+              "name": "Database Systems",
+              "credits": 4
+            },
+            {
+              "name": "Cloud Computing",
+              "credits": 3
+            }
+          ]
+        },
+        "Creative Technologies": {
+          "head": "Dr. Bob",
+          "number_of_students": 180,
+          "fee_per_credit_hour": 450, // Fee for each credit hour
+          "courses": [
+            {
+              "name": "Software Design",
+              "credits": 3
+            },
+            {
+              "name": "Database Systems",
+              "credits": 4
+            },
+            {
+              "name": "Cloud Computing",
+              "credits": 3
+            }
+          ]
+        },
+        "Computer Game Development": {
+          "head": "Dr. Bob",
+          "number_of_students": 180,
+          "Degree Programme": [
+            {
+              "name": "BS CGD",
+              "credits": 19
+            },
+            {
+              "name": "Database Systems",
+              "credits": 4
+            },
+            {
+              "name": "Cloud Computing",
+              "credits": 3
+            }
+          ]
+        }
+      },
+      "Societies": {
+        "Tech Club": {
+          "president": "Mike Johnson",
+          "members": 60,
+          "activities": [
+            "Coding Competitions",
+            "Hackathons",
+            "Workshops"
+          ]
+        },
+        "AI Society": {
+          "president": "Sarah Lee",
+          "members": 40,
+          "activities": [
+            "AI Conferences",
+            "Research Talks",
+            "Networking Events"
+          ]
+        }
+      },
+      "Events": [
+        {
+          "name": "Annual Tech Symposium",
+          "date": "2024-05-10",
+          "description": "A gathering of tech enthusiasts, students, and researchers to discuss the latest in computing and AI."
+        },
+        {
+          "name": "Hackathon 2024",
+          "date": "2024-08-15",
+          "description": "48-hour coding competition focusing on AI-driven solutions."
+        },
+        {
+          "name": "AI Research Workshop",
+          "date": "2024-09-20",
+          "description": "Workshop for students and professionals interested in the latest research in artificial intelligence."
+        }
+      ]
+    }
+  }
