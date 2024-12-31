@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Important\\AUniversity\\3rd Semester\\data structures\\project\\retrieval argumented system\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1E95B6-57CA-4B48-977A-235B04A51974}|retrieval argumented system\\retrieval argumented system.vcxproj|F:\\Important\\AUniversity\\3rd Semester\\data structures\\project\\retrieval argumented system\\retrieval argumented system\\retrieval argumented system.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E1E95B6-57CA-4B48-977A-235B04A51974}|retrieval argumented system\\retrieval argumented system.vcxproj|solutionrelative:retrieval argumented system\\retrieval argumented system.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "retrieval argumented system.cpp",
+              "DocumentMoniker": "F:\\Important\\AUniversity\\3rd Semester\\data structures\\project\\retrieval argumented system\\retrieval argumented system\\retrieval argumented system.cpp",
+              "RelativeDocumentMoniker": "retrieval argumented system\\retrieval argumented system.cpp",
+              "ToolTip": "F:\\Important\\AUniversity\\3rd Semester\\data structures\\project\\retrieval argumented system\\retrieval argumented system\\retrieval argumented system.cpp",
+              "RelativeToolTip": "retrieval argumented system\\retrieval argumented system.cpp",
+              "ViewState": "AQIAAOMBAAAAAAAAAAAYwPMBAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-31T15:21:20.653Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

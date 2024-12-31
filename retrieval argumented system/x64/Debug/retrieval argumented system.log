@@ -1,0 +1,4 @@
+﻿  retrieval argumented system.cpp
+F:\Important\AUniversity\3rd Semester\data structures\project\retrieval argumented system\retrieval argumented system\retrieval argumented system.cpp(455,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\Important\AUniversity\3rd Semester\data structures\project\retrieval argumented system\retrieval argumented system\retrieval argumented system.cpp(391,1): warning C4715: 'mapping': not all control paths return a value
+  retrieval argumented system.vcxproj -> F:\Important\AUniversity\3rd Semester\data structures\project\retrieval argumented system\x64\Debug\retrieval argumented system.exe

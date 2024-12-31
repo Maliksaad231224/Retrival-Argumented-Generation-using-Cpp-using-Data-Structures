@@ -1,0 +1,2 @@
+This project uses jsoncpp library for pursing json file. Please link the library by going to the properties of the project.
+click on the c/c++ option. Link the include folder of this zip file to the project
